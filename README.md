@@ -1,1 +1,1 @@
-# Washing-Machine
+# Automated Washing-Machine Control System
